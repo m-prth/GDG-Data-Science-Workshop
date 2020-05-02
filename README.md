@@ -1,4 +1,4 @@
-# Google DevFest 2019 Data Science workshop files
+# Google DevFest 2019 Data Science Workshop
 
 This is a 3 part workshop trying to highlight the use of Data Science in enhancing services and products.
 
